@@ -1,0 +1,127 @@
+[
+{
+	"uri": "/",
+	"title": "Arquitecturas de Software para BDA",
+	"tags": [],
+	"description": "",
+	"content": " Arquitecturas de Software para Big Data Analytics (BDA) "
+},
+{
+	"uri": "/1-intro.html",
+	"title": "Intro",
+	"tags": [],
+	"description": "",
+	"content": " Arquitecturas de Software para Big Data Analytics Introducción Este estudio tiene como propósito evaluar la usabilidad de dos herramientas para el diseño, despliegue y monitoreo de aplicaciones de big data analytics (BDA). Este estudio hace parte de la investigación del trabajo de doctorado en arquitecturas de big data analytics del estudiante Cristian Camilo Castellanos bajo la dirección del profesor Darío Ernesto Correal.\nDentro de este taller, usted evaluará ocho (8) escenarios en dos herramientas, asignando una calificación en escala Likert sobre su nivel de acuerdo o desacuerdo con una declaración dada. La evaluación de los escenarios se hará a partir de videos cortos que muestran el procedimiento para alcanzar el escenario propuesto, desarrollado de la forma más eficiente posible en cada una de las herramientas. El desarrollo total del taller toma entre 50 y 60 minutos incluyendo el diligenciamiento de la encuesta.\n"
+},
+{
+	"uri": "/2-case-study.html",
+	"title": "Caso de Estudio",
+	"tags": [],
+	"description": "",
+	"content": " Caso de Estudio El caso de estudio es una aplicación para la predicción de abandono de un cliente a una empresa de telecomunicaciones. Los datos utilizados corresponde a la información de perfil, consumo, e incidentes de cada cliente. A partir de esos datos históricos de clientes, se entrena un modelo de predicción que estima la probabilidad que un cliente cancele (churn=1) o no (churn=0) su suscripción. Al final servicio debe predecir para cada cliente si es probable su retiro para aplicar estrategias de retención y fidelización.\n"
+},
+{
+	"uri": "/2-case-study/2-pmml.html",
+	"title": "PMML",
+	"tags": [],
+	"description": "",
+	"content": " Predictive Model Markup Language (PMML) PMML es un lenguaje XML para describir modelos predictivos y de minería de datos desarrollado por el Data Mining Group (DMG) con el propósito de facilitar la portabilidad e interoperabilidad al ser de tecnología neutral. Actualmente varias tecnologías y herramientas soportan PMML permitiendo exportar e importar modelos especificados en ese formato convirtiendo a PMML en un estándar de facto en la industria.\nLas dos herramientas evaluadas en este estudio soportan PMML con el propósito de desacoplar el modelo analítico de las soluciones que lo implementan. El archivo PMML utilizado en este caso de estudio codifica un modelo de árbol de decisión que predice si es probable (1) o no (0) el abandono de un cliente acorde a sus datos de llamadas y contrato. Tanto el modelo PMML como los datos de clientes son tomados de una aplicación de ejemplo de churn provista por el software Knime. "
+},
+{
+	"uri": "/2-case-study/3-asrs.html",
+	"title": "ASRs",
+	"tags": [],
+	"description": "",
+	"content": " Requerimientos Arquitecturalmente Significativos (ASR) Los ASRs son requerimientos que tienen un efecto medible sobre una arquitectura tanto a nivel de software como de hardware. Los ASRs que guiarán la arquitectura del presente caso de estudio se muestran a continuación:\nASR 1 ASR 2 "
+},
+{
+	"uri": "/2-case-study/4-views.html",
+	"title": "Vistas",
+	"tags": [],
+	"description": "",
+	"content": " Vistas de Arquitectura Las vistas son una representación de la arquitectura que tiene significado para uno o más usuarios en el sistema abordando sus principales preocupaciones. Las vistas funcional y de despliegue para el caso de estudio propuesto se presentan a continuación:\nVista Funcional Describe el conjunto de tres componentes que separan la responsabilidades de recolectar los datos, estimar la probabilidad de abandono y almacenar las estimaciones realizadas. Los dos conectores se encargan de comunicar los componentes mencionados.\nVista de Despliegue Describe los nodos de computación y entornos de ejecución donde se desplegaran los diferentes artefactos (componentes y conectores) descritos en la vista funcional.\n"
+},
+{
+	"uri": "/3-scenarios.html",
+	"title": "Escenarios",
+	"tags": [],
+	"description": "",
+	"content": " Escenarios Este estudio evalúa la usabilidad de dos herramientas a partir de ocho (8) escenarios de análisis, diseño, monitoreo, y modificación de la arquitectura del caso de estudio:\n Especificación de ASRs y decisiones Diseño de la vista funcional Diseño de la vista de despliegue Despliegue Monitoreo y evaluación metricas Análisis de decisiones Escalamiento Actualización de modelo  Las siguientes subsecciones irán abordando cada escenario, donde a través de videos cortos se muestra el procedimiento desarrollado en cada herramienta de la forma más óptima posible, para ser evaluado. Las calificaciones en escala Likert se deben diligenciar en el cuestionario de evaluación, que iniciará con una sección de preguntas socio-demográficas, para luego ir avanzado por las secciones de cada escenario. Para cada escenario, les recomendamos responder el grupo de preguntas asociadas inmediatamente después de ver los videos correspondientes.\nIngrese al cuestionario de evaluación compartido arriba, y diligencie la información socio-demográfica solicitada en las preguntas 1 a 5 .\nAntes de contestar las preguntas de cada escenario, por favor siga este instructivo para visualizar los videos de cada herramienta, de manera que la calificación refleje su percepción con respecto a la facilidad de uso observada. Cualquier duda adicional, puede enviar un correo a cc.castellanos87 at uniandes.edu.co  "
+},
+{
+	"uri": "/3-scenarios/1.html",
+	"title": "Escenario 1",
+	"tags": [],
+	"description": "",
+	"content": " 1- Escenario de especificación de escenarios de calidad y decisiones Este escenario abarca la definición de los escenarios de calidad y decisiones de arquitectura. Por favor responda las preguntas 6 y 7 después de observar los siguientes dos videos:\nHerramienta A   Herramienta B   "
+},
+{
+	"uri": "/3-scenarios/2.html",
+	"title": "Escenario 2",
+	"tags": [],
+	"description": "",
+	"content": " 2- Escenario de diseño de la vista funcional Este escenario se enfoca en el diseño de la vista funcional teniendo en cuenta los escenarios de calidad y decisiones de arquitectura. Por favor responda las preguntas 8 y 9 después de observar los siguientes dos videos y analizar como se especifican componentes, conectores, y sus propiedades:\nHerramienta A   Herramienta B   "
+},
+{
+	"uri": "/3-scenarios/3.html",
+	"title": "Escenario 3",
+	"tags": [],
+	"description": "",
+	"content": " 3- Escenario de diseño de la vista de despliegue Este escenario abarca el diseño de la vista de despliegue a partir de los ASRs y vista funcional. Por favor responda las preguntas 10 a 13 después de observar los siguientes dos videos y analizar como se especifican los nodos de cómputo, entornos de ejecución, despliegues, artefactos y replicas:\nHerramienta A   Herramienta B   "
+},
+{
+	"uri": "/3-scenarios/4.html",
+	"title": "Escenario 4",
+	"tags": [],
+	"description": "",
+	"content": " 4- Escenario de despliegue Este escenario aborda el despliegue y ejecución de la aplicación a partir de la arquitectura diseñada. Por favor responda las preguntas 14 y 15 después de observar los siguientes dos videos y examinar como se despliega la aplicación:\nHerramienta A   Herramienta B   "
+},
+{
+	"uri": "/3-scenarios/5.html",
+	"title": "Escenario 5",
+	"tags": [],
+	"description": "",
+	"content": " 5- Escenario de monitoreo Este escenario se enfoca en el monitoreo del cumplimiento de los escenarios de calidad sobre la aplicación en ejecución. Por favor responda las preguntas 16 y 17 después de observar los siguientes dos videos y revisar como se monitorean las métricas de los componentes desplegados y su evaluación frente a los escenarios de calidad:\nHerramienta A   Herramienta B   "
+},
+{
+	"uri": "/3-scenarios/6.html",
+	"title": "Escenario 6",
+	"tags": [],
+	"description": "",
+	"content": " 6- Escenario de análisis de decisiones Este escenario evalúa la identificación de las decisiones claves dentro de la arquitectura que direccionan los ASRs. Por favor responda las preguntas 18 y 19 después de observar los siguientes dos videos y observar como se analizan decisiones previamente tomadas y los componentes asociados a dichas decisiones:\nHerramienta A   Herramienta B   "
+},
+{
+	"uri": "/3-scenarios/7.html",
+	"title": "Escenario 7",
+	"tags": [],
+	"description": "",
+	"content": " 7- Escenario de escalamiento Este escenario explora el escalamiento de los recursos de computo del componente de estimación. Por favor responda las preguntas 20 y 21 después de observar los siguientes dos videos y analizar como se implementa el escalamiento vertical y horizontal:\nHerramienta A   Herramienta B   "
+},
+{
+	"uri": "/3-scenarios/8.html",
+	"title": "Escenario 8",
+	"tags": [],
+	"description": "",
+	"content": " 8- Escenario de actualización de modelo Este escenario involucra la actualización del modelo de estimación de abandono a una nueva versión. Por favor responda las preguntas 22 y 23 después de observar los siguientes dos videos y analizar como se actualiza y despliega a una nueva versión el componente analítico:\nHerramienta A   Herramienta B   "
+},
+{
+	"uri": "/4-wrapup.html",
+	"title": "Conclusiones",
+	"tags": [],
+	"description": "",
+	"content": " Conclusiones Agradecemos su participación en el desarrollo de este estudio. En este taller se evaluaron diferentes escenarios de diseño y despliegue de aplicaciones de big data analytics en dos herramientas diferentes para calificar su usabilidad y alineamiento con prácticas de arquitectura.\nLos resultados de este estudio serán compartidos con quienes hayan marcado la opción en la encuesta. Para mayor información acerca de las herramientas utilizadas o investigaciones publicadas alrededor de este tema, por favor referirse a los siguientes enlaces:\nHerramientas  ArchiAndes-ACCORDANT\n ArchiAndes: An Architecture Graphical Editor ACCORDANT: Eclipse Modelling Tools which support ArchiAndes models  Spring Cloud Data Flow\n  Publicaciones  Executing architectural models for big data analytics\n Cost Comparison of Lambda Architecture Implementations for Transportation Analytics using Public Cloud Software as a Service\n A survey on big data analytics solutions deployment\n A Model-Driven Architectural Design Method for Big Data Analytics Applications\n Measuring performance quality scenarios in big data analytics applications: a DevOps and domain-specific model approach\n  Cualquier duda adicional, puede enviar un correo a cc.castellanos87 at uniandes.edu.co  Gracias por su participación!!!\n "
+},
+{
+	"uri": "/categories.html",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags.html",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

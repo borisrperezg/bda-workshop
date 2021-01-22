@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/1-intro.html</loc>
+  </url>
+  
+  <url>
+    <loc>/2-case-study.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2-case-study/2-pmml.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2-case-study/3-asrs.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2-case-study/4-views.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/1.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/2.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/3.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/4.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/5.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/6.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/7.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/3-scenarios/8.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/4-wrapup.html</loc>
+    <lastmod>2020-10-10T18:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories.html</loc>
+  </url>
+  
+  <url>
+    <loc>/tags.html</loc>
+  </url>
+  
+</urlset>

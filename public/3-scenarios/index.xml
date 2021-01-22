@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Escenarios on Taller de Arquitectura para BDA</title>
+    <link>/3-scenarios.html</link>
+    <description>Recent content in Escenarios on Taller de Arquitectura para BDA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Oct 2020 18:28:43 -0500</lastBuildDate><atom:link href="/3-scenarios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escenario 1</title>
+      <link>/3-scenarios/1.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/1.html</guid>
+      <description> 1- Escenario de especificación de escenarios de calidad y decisiones Este escenario abarca la definición de los escenarios de calidad y decisiones de arquitectura. Por favor responda las preguntas 6 y 7 después de observar los siguientes dos videos:
+Herramienta A   Herramienta B   </description>
+    </item>
+    
+    <item>
+      <title>Escenario 2</title>
+      <link>/3-scenarios/2.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/2.html</guid>
+      <description> 2- Escenario de diseño de la vista funcional Este escenario se enfoca en el diseño de la vista funcional teniendo en cuenta los escenarios de calidad y decisiones de arquitectura. Por favor responda las preguntas 8 y 9 después de observar los siguientes dos videos y analizar como se especifican componentes, conectores, y sus propiedades:
+Herramienta A   Herramienta B   </description>
+    </item>
+    
+    <item>
+      <title>Escenario 3</title>
+      <link>/3-scenarios/3.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/3.html</guid>
+      <description> 3- Escenario de diseño de la vista de despliegue Este escenario abarca el diseño de la vista de despliegue a partir de los ASRs y vista funcional. Por favor responda las preguntas 10 a 13 después de observar los siguientes dos videos y analizar como se especifican los nodos de cómputo, entornos de ejecución, despliegues, artefactos y replicas:
+Herramienta A   Herramienta B   </description>
+    </item>
+    
+    <item>
+      <title>Escenario 4</title>
+      <link>/3-scenarios/4.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/4.html</guid>
+      <description> 4- Escenario de despliegue Este escenario aborda el despliegue y ejecución de la aplicación a partir de la arquitectura diseñada. Por favor responda las preguntas 14 y 15 después de observar los siguientes dos videos y examinar como se despliega la aplicación:
+Herramienta A   Herramienta B   </description>
+    </item>
+    
+    <item>
+      <title>Escenario 5</title>
+      <link>/3-scenarios/5.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/5.html</guid>
+      <description> 5- Escenario de monitoreo Este escenario se enfoca en el monitoreo del cumplimiento de los escenarios de calidad sobre la aplicación en ejecución. Por favor responda las preguntas 16 y 17 después de observar los siguientes dos videos y revisar como se monitorean las métricas de los componentes desplegados y su evaluación frente a los escenarios de calidad:
+Herramienta A   Herramienta B   </description>
+    </item>
+    
+    <item>
+      <title>Escenario 6</title>
+      <link>/3-scenarios/6.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/6.html</guid>
+      <description> 6- Escenario de análisis de decisiones Este escenario evalúa la identificación de las decisiones claves dentro de la arquitectura que direccionan los ASRs. Por favor responda las preguntas 18 y 19 después de observar los siguientes dos videos y observar como se analizan decisiones previamente tomadas y los componentes asociados a dichas decisiones:
+Herramienta A   Herramienta B   </description>
+    </item>
+    
+    <item>
+      <title>Escenario 7</title>
+      <link>/3-scenarios/7.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/7.html</guid>
+      <description> 7- Escenario de escalamiento Este escenario explora el escalamiento de los recursos de computo del componente de estimación. Por favor responda las preguntas 20 y 21 después de observar los siguientes dos videos y analizar como se implementa el escalamiento vertical y horizontal:
+Herramienta A   Herramienta B   </description>
+    </item>
+    
+    <item>
+      <title>Escenario 8</title>
+      <link>/3-scenarios/8.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/3-scenarios/8.html</guid>
+      <description> 8- Escenario de actualización de modelo Este escenario involucra la actualización del modelo de estimación de abandono a una nueva versión. Por favor responda las preguntas 22 y 23 después de observar los siguientes dos videos y analizar como se actualiza y despliega a una nueva versión el componente analítico:
+Herramienta A   Herramienta B   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caso de Estudio on Taller de Arquitectura para BDA</title>
+    <link>/2-case-study.html</link>
+    <description>Recent content in Caso de Estudio on Taller de Arquitectura para BDA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Oct 2020 18:28:43 -0500</lastBuildDate><atom:link href="/2-case-study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PMML</title>
+      <link>/2-case-study/2-pmml.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/2-case-study/2-pmml.html</guid>
+      <description>Predictive Model Markup Language (PMML) PMML es un lenguaje XML para describir modelos predictivos y de minería de datos desarrollado por el Data Mining Group (DMG) con el propósito de facilitar la portabilidad e interoperabilidad al ser de tecnología neutral. Actualmente varias tecnologías y herramientas soportan PMML permitiendo exportar e importar modelos especificados en ese formato convirtiendo a PMML en un estándar de facto en la industria.
+Las dos herramientas evaluadas en este estudio soportan PMML con el propósito de desacoplar el modelo analítico de las soluciones que lo implementan.</description>
+    </item>
+    
+    <item>
+      <title>ASRs</title>
+      <link>/2-case-study/3-asrs.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/2-case-study/3-asrs.html</guid>
+      <description> Requerimientos Arquitecturalmente Significativos (ASR) Los ASRs son requerimientos que tienen un efecto medible sobre una arquitectura tanto a nivel de software como de hardware. Los ASRs que guiarán la arquitectura del presente caso de estudio se muestran a continuación:
+ASR 1 ASR 2 </description>
+    </item>
+    
+    <item>
+      <title>Vistas</title>
+      <link>/2-case-study/4-views.html</link>
+      <pubDate>Sat, 10 Oct 2020 18:28:43 -0500</pubDate>
+      
+      <guid>/2-case-study/4-views.html</guid>
+      <description>Vistas de Arquitectura Las vistas son una representación de la arquitectura que tiene significado para uno o más usuarios en el sistema abordando sus principales preocupaciones. Las vistas funcional y de despliegue para el caso de estudio propuesto se presentan a continuación:
+Vista Funcional Describe el conjunto de tres componentes que separan la responsabilidades de recolectar los datos, estimar la probabilidad de abandono y almacenar las estimaciones realizadas. Los dos conectores se encargan de comunicar los componentes mencionados.</description>
+    </item>
+    
+  </channel>
+</rss>
